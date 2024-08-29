@@ -34,6 +34,7 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [River 探索筆記](https://samwhelp.github.io/note-about-riverwm/) | [GitHub](https://github.com/samwhelp/note-about-riverwm) |
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+| [Ultramarine River 探索筆記](https://samwhelp.github.io/note-about-ultramarine-river/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-river) |
 
 
 
